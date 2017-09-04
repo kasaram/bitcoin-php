@@ -6,7 +6,7 @@ include("./includes/header.php");
 
 // config Blockchain account
 $btc = 400;
-$guid = '861e9ef0-87b3-43d9-9f45-d48a75ae3fd6';  // Blockchain account
+$guid = 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxx';  // Blockchain account
 $main_password = 'password'; // Blockchain pass
 $second_password = 'password'; // Blockchain pass
 $rate = 280;
